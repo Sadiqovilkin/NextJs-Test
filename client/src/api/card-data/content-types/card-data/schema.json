@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "card_datas",
+  "info": {
+    "singularName": "card-data",
+    "pluralName": "card-datas",
+    "displayName": "CardData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "password": {
+      "type": "password"
+    }
+  }
+}
